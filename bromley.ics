@@ -1,337 +1,285 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-PRODID://FixMyStreet//Bin Collection Calendars//EN
-REFRESH-INTERVAL;VALUE=DURATION:P1D
-SOURCE;VALUE=URI:https://recyclingservices.bromley.gov.uk/waste/6246459/cal
- endar.ics
-URL:https://recyclingservices.bromley.gov.uk/waste/6246459
-X-PUBLISHED-TTL:P1D
-X-WR-CALNAME:Bin calendar
-X-WR-TIMEZONE:Europe/London
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261028
-SUMMARY:Paper & Cardboard collection
-UID:e84beed9339969c755e851857f72ec003fe208d0@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Paper & Cardboard collection
-UID:be3cca4ed34eb79b8c12df14b71ed5355e98db45@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Paper & Cardboard collection
-UID:799a1a6d7dcfd67404235d0b4cf4c171ccf051c9@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261210
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261209
-SUMMARY:Paper & Cardboard collection
-UID:c28905768400518ca77534abea0afd5fb8372fba@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261224
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261223
-SUMMARY:Paper & Cardboard collection
-UID:edfca39f59b36d498d8e168c37f33dd85016d40c@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20270107
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20270106
-SUMMARY:Paper & Cardboard collection
-UID:6eb8b80bb062f25fc945ae2c044e6ba1e8d2a4a6@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20270121
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20270120
-SUMMARY:Paper & Cardboard collection
-UID:fa8b63fceebafbba1a80a083e95d8921216104a0@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261028
-SUMMARY:Non-Recyclable Refuse collection
-UID:ddc6b58b958294a79772fb64403790e47012e6e1@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Non-Recyclable Refuse collection
-UID:7d806c37b19336454f2abdbdcba74d67300d0ba8@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Non-Recyclable Refuse collection
-UID:ae8dbfa6b31bbbfe298e1433b83d6c9729dedfa3@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261210
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261209
-SUMMARY:Non-Recyclable Refuse collection
-UID:026550a2452a15713ead86e7ba9025edfd4cdc36@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261224
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261223
-SUMMARY:Non-Recyclable Refuse collection
-UID:a9687ece18f941cb32d045061c6fdbcd9495bfa8@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20270107
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20270106
-SUMMARY:Non-Recyclable Refuse collection
-UID:84c0f7ddae539276ebf20bde305f8e957bb286dc@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20270121
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20270120
-SUMMARY:Non-Recyclable Refuse collection
-UID:06c1a255dfc74678a401a70cd99e28fd9aef7482@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261110
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261109
-SUMMARY:Garden Waste collection
-UID:d5cdf6591ae5e7b827f8c748454f4a6ca19df55f@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261124
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Garden Waste collection
-UID:9986d430d0891b50a704f9532d217befdec3fc0e@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261027
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261026
-SUMMARY:Garden Waste collection
-UID:9fdc9e897d07b8cc57a96bfbd744672ae30db6fa@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261105
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261104
-SUMMARY:Mixed Recycling (Cans\, Plastics & Glass) collection
-UID:008c1edc590c931250d05e0588ff1953e71621f0@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Mixed Recycling (Cans\, Plastics & Glass) collection
-UID:72aad3e2d0dc204e13ee5ecd1a3ab5668be1d327@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261203
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261202
-SUMMARY:Mixed Recycling (Cans\, Plastics & Glass) collection
-UID:dc99daeaadc87633e3003fed0bff72b1b5cf6524@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261217
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261216
-SUMMARY:Mixed Recycling (Cans\, Plastics & Glass) collection
-UID:0cca152eda2af83e58aed29ed8da53fc8c6ec689@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261231
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261230
-SUMMARY:Mixed Recycling (Cans\, Plastics & Glass) collection
-UID:c3667514c415ee4976f7bde103b8665fcf7e0981@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20270114
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20270113
-SUMMARY:Mixed Recycling (Cans\, Plastics & Glass) collection
-UID:630e975a0282278d5b6b6d1ab327e63c4ead422a@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261028
-SUMMARY:Food Waste collection
-UID:4eed0443bed67d52e7cc062cc5d6fe1331024ef8@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261105
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261104
-SUMMARY:Food Waste collection
-UID:5ccbf5a16297c63e0e10e12e27b1c8f46fdf338c@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Food Waste collection
-UID:63424f62cdb0b6b210df8874f2f6056c2beb56b2@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261118
-SUMMARY:Food Waste collection
-UID:1754d96996d9b71d07828b5a93c32529b1fc0e5f@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Food Waste collection
-UID:7b818dec7075bdfbdf49c3f78a3efc5bc9a62970@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261203
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261202
-SUMMARY:Food Waste collection
-UID:9069ecb9f9646090870c0fd11edcc21d7d4ae59b@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261210
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261209
-SUMMARY:Food Waste collection
-UID:86c1b5af7a6347f892cd300b62b72e5ffc6e6171@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261217
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261216
-SUMMARY:Food Waste collection
-UID:cd2abe46d43f0394c755e885a11a0fa02b3af47f@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261224
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261223
-SUMMARY:Food Waste collection
-UID:57989509e2b24ec39c6900fc5464c9e994507dd4@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20261231
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20261230
-SUMMARY:Food Waste collection
-UID:98d1141250940853e3eadfd43b3eb745334fff6b@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20270107
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20270106
-SUMMARY:Food Waste collection
-UID:27ab06fb311a70a014e046adf06b95af7978fed0@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20270114
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20270113
-SUMMARY:Food Waste collection
-UID:b0546d8b4026f8012fc348ac172448595b8d6b23@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20270121
-DTSTAMP:20261023T153020Z
-DTSTART;VALUE=DATE:20270120
-SUMMARY:Food Waste collection
-UID:f6b66abd3a245c2202a9ca3352a4739ae83a22d1@recyclingservices.bromley.gov.
- uk
-END:VEVENT
-END:VCALENDAR
+
+
+
+<!doctype html>
+<!--[if IE 9]>   <html class="no-js ie9" lang="en-gb"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-gb"><!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1.0, width=device-width, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+<title>
+    Temporarily unavailable :: 
+    WasteWorks</title>
+
+
+
+
+<link rel="stylesheet" href="/static/cobrands/bromley/base.6ca4114deaf4.css">
+<link rel="stylesheet" href="/static/cobrands/bromley/layout.fab705bae09b.css" media="screen and (min-width:48em)">
+<!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel="stylesheet" href="/static/cobrands/bromley/layout.fab705bae09b.css">
+<![endif]-->
+<link rel="stylesheet" href="/static/vendor/OpenLayers/theme/default/style.836778f74ad9.css">
+
+
+
+
+
+    <link rel="manifest" href="/.well-known/manifest-waste.webmanifest">
+
+
+    <meta name='theme-color' content='#006a38'>
+    
+        <link rel="apple-touch-icon" sizes="192x192" href="/theme/bromley/5a36df643dfeb97b8c7851223e3e132c2f656a69.png">
+    
+        <link rel="apple-touch-icon" sizes="512x512" href="/theme/bromley/9cad32e0f005311ec7b8ef2bad8edf85dd56d5a3.png">
+    
+
+
+
+
+<!--[if (lt IE 9)]>
+    <script src="/static/vendor/html5shiv.4614227df64d.js"></script>
+<![endif]-->
+<script nonce="76a21d7c7b5bd8a678acbc26c5208f44">
+(function(d,e,k){function m(b,n,a,l){var f=e.createElement("div");var c=e.body;c||(c=e.createElement("body"),c.fake=!0);if(parseInt(a,10))for(;a--;){var d=e.createElement("div");d.id=l?l[a]:"modernizr"+(a+1);f.appendChild(d)}a=e.createElement("style");a.type="text/css";a.id="smodernizr";(c.fake?c:f).appendChild(a);c.appendChild(f);a.styleSheet?a.styleSheet.cssText=b:a.appendChild(e.createTextNode(b));f.id="modernizr";if(c.fake){c.style.background="";c.style.overflow="hidden";var g=h.style.overflow;
+h.style.overflow="hidden";h.appendChild(c)}b=n(f,b);c.fake?(c.parentNode.removeChild(c),h.style.overflow=g,h.offsetHeight):f.parentNode.removeChild(f);return!!b}k={_version:"3.11.4"};var g=function(){};g.prototype=k;g=new g;var h=e.documentElement,p=function(){var b=d.matchMedia||d.msMatchMedia;return b?function(d){return(d=b(d))&&d.matches||!1}:function(b){var a=!1;m("@media "+b+" { #modernizr { position: absolute; } }",function(b){a="absolute"===("getComputedStyle"in d?getComputedStyle(b):b.currentStyle).position});
+return a}}();k.mq=p;d.Modernizr=g})(window,document);
+    var fixmystreet=fixmystreet||{};fixmystreet.page="";fixmystreet.cobrand="bromley";fixmystreet.password_minimum_length=8;fixmystreet.photo_first=0;
+    (function(a){a=a.documentElement;a.className=a.className.replace(/\bno-js\b/,"js");var b=Modernizr.mq("(min-width: 48em)")?"desktop":"mobile";"IntersectionObserver"in window&&(a.className+=" lazyload");"mobile"===b&&(a.className+=" mobile")})(document);
+</script>
+
+<script nonce="76a21d7c7b5bd8a678acbc26c5208f44">
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/service-worker.js');
+    });
+}
+</script>
+
+
+
+<meta name="format-detection" content="telephone=no">
+<meta name="google" content="notranslate">
+
+
+
+
+
+
+    
+        <link rel="prefetch" href="/static/vendor/OpenLayers/OpenLayers.wfs.c20e25c9d659.js">
+    
+        <link rel="prefetch" href="/static/js/map-OpenLayers.auto.min.3955d9ca8eff.js">
+    
+        <link rel="prefetch" href="/static/js/map-OpenStreetMap.auto.min.d5abe766033c.js">
+    
+        <link rel="prefetch" href="/static/js/map-os-bng.auto.min.9c5826149bce.js">
+    
+    <link rel="prefetch" href="/static/cobrands/fixmystreet/map.auto.min.ea73f7151bdc.js">
+    <link rel="prefetch" href="/static/vendor/dropzone.min.1c52d40bf872.js">
+    <link rel="prefetch" href="/static/vendor/fancybox/jquery.fancybox-1.3.4.pack.d243d1742854.js">
+
+
+
+
+        <meta property="og:url" content="https://fix.bromley.gov.uk/waste/6246459/calendar.ics">
+        <meta property="og:title" content="Temporarily unavailable">
+        <meta property="og:site_name" content="WasteWorks">
+        
+        <meta property="og:type" content="website">
+                
+        
+        <meta property="og:image" content="https://fix.bromley.gov.uk/cobrands/fixmystreet/images/fms-og_image.jpg">
+        <meta property="og:image:type" content="image/jpeg">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+        
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+
+<link rel="icon" type="image/png" sizes="32x32" href="/cobrands/bromley/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/cobrands/bromley/images/favicon-16x16.png">
+
+
+
+
+
+    </head>
+    
+    <body class="">
+
+        <a class="skiplink" href="#content">Skip to main content</a>
+
+    
+
+    
+
+    <div class="wrapper">
+        <div class="table-cell">
+            <header id="site-header" role="banner">
+    <div class="container">
+        <a href="https://www.bromley.gov.uk/" id="site-logo">Bromley Council</a>
+<a href="/" id="report-cta" title="Report a problem">Report</a>
+
+        <label id="nav-link" for="main-nav-btn" aria-label="Open main navigation">Menu</label>
+    </div>
+</header>
+
+<div class="nav-wrapper">
+    <div class="container">
+        
+
+
+
+    <div id="js-menu-open-modal"></div>
+    <input role="button" type="checkbox" id="main-nav-btn" autocomplete="off" aria-expanded="false">
+    <nav id="main-nav" role="navigation">
+
+
+    <ul class="nav-menu nav-menu--main">
+        
+
+<li ><a href="/" class="report-a-problem-btn">Report a problem</a></li><li ><a href="/auth" >Sign in</a></li><li ><a href="/reports/Bromley" >All reports</a></li><li ><a href="/alert" >Local alerts</a></li><li ><a href="/faq" >Help</a></li><li class="nav-menu__item--privacy"><a href="/about/privacy" >Privacy</a></li>
+    </ul>
+
+
+    </nav>
+
+
+    </div>
+</div>
+
+
+            
+
+            <a name="content"></a>
+            
+
+
+            <div class="container">
+              
+                <div class="content" role="main">
+
+
+
+    <div class="confirmation-header confirmation-header--blank">
+        <h1>Temporarily unavailable</h1>
+        <p>Our waste service system is temporarily unavailable. This also affects our Contact Centre, as they are unable to access or update information at this time. Please refrain from calling until the system is restored. We apologise for any inconvenience and appreciate your patience. Please accept our apologies for the disruption and try again later.</p>
+        
+            <small>Code: 2aada4</small>
+        
+    </div>
+
+
+</div><!-- .content role=main -->
+            </div><!-- .container -->
+        </div><!-- .table-cell -->
+    </div> <!-- .wrapper -->
+
+    
+
+<footer class="site-footer">
+    <div class="container container--flex">
+        <nav class="site-footer__group" aria-label="Footer Navigation">
+            <ul class="list">
+                <li class="list__item">
+                    <a class="list__link" href="https://www.bromley.gov.uk/privacy">Privacy</a>
+                </li>
+                <li class="list__item">
+                    <a class="list__link" href="https://www.bromley.gov.uk/accessibility">Accessibility
+                    </a>
+                </li>
+                <li class="list__item">
+                    <a class="list__link" href="https://www.bromley.gov.uk/terms">Disclaimer</a>
+                </li>
+                <li class="list__item">
+                    <a class="list__link" href="https://www.bromley.gov.uk/privacy">Cookies</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container">
+        <div class="site-footer__content-left">
+            <p class="site-footer__text site-footer__rights">© London Borough of Bromley.
+                <span class="site-footer__rights-tag">All Rights Reserved.</span>
+            </p>
+        </div>
+    </div>
+    <div class="site-footer__content-right">
+        <nav class="nav nav--social-links" aria-label="social links">
+            <span class="h4 nav__heading">Stay connected</span>
+            <div class="social-wrapper">
+                    <a class="list__link twitter" href="https://twitter.com/LBofBromley" title="Twitter" target="_blank" aria-label="Follow us on Facebook"></a>
+                    <a class="list__link facebook" href="http://facebook.com/LBBromley" title="Facebook" target="_blank" aria-label="Follow us on Facebook"></a>
+                    <a class="list__link youtube" href="https://www.youtube.com/user/LBBromley" title="Youtube" target="_blank" aria-label="Follow us on Youtube"></a>
+            </div>
+        </nav>
+    </div>
+</footer>
+<div class="footer-main-nav">
+    <div class="container">
+        
+
+
+
+
+    <ul class="nav-footer">
+        
+
+<li ><a href="/" class="report-a-problem-btn">Report a problem</a></li><li ><a href="/auth" >Sign in</a></li><li ><a href="/reports/Bromley" >All reports</a></li><li ><a href="/alert" >Local alerts</a></li><li ><a href="/faq" >Help</a></li><li class="nav-menu__item--privacy"><a href="/about/privacy" >Privacy</a></li>
+    </ul>
+
+
+
+    </div>
+</div>
+
+<div class="societyworks-footer">
+  <div class="container">
+      <p>
+          Powered by
+        
+          <a class="societyworks-footer__logo societyworks-footer__logo--fms-pro" href="https://www.societyworks.org/services/highways/">FixMyStreet Pro</a>
+        
+      </p>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+<!--[if lte IE 9]>
+  <script src="/static/vendor/history.polyfill.min.a514228c8898.js"></script>
+<![endif]-->
+<script src="/static/js/translation_strings.en-gb.ba9c23ce46b4.js"></script>
+<script src="/static/js/validation_rules.auto.min.9617a6ea5034.js"></script>
+<script src="/static/vendor/jquery-3.7.1.min.2c872dbe60f4.js"></script>
+<script src="/static/vendor/jquery.multi-select.min.9788b7bbb1e3.js"></script>
+<script src="/static/vendor/jquery.validate.min.f15265a2f8ea.js"></script>
+<script src="/static/vendor/jquery.validate.additional-methods.require-from-group.min.85bcc61adad9.js"></script>
+<script src="/static/vendor/idb-keyval-iife.min.08bfe56c11c7.js"></script>
+<script src="/static/js/offline_draft.auto.min.d1bdd2d1353a.js"></script>
+<script src="/static/cobrands/fixmystreet/offline_report.auto.min.93522809286b.js"></script>
+<script src="/static/cobrands/fixmystreet/fixmystreet.auto.min.049bc6c48694.js"></script>
+<script src="/static/cobrands/fixmystreet/prefetch-polyfill.auto.min.2da37c91514a.js"></script>
+
+
+
+
+
+</body>
+</html>
+
+
